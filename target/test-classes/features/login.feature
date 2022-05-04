@@ -13,4 +13,4 @@ Feature: Login to HRM Application
     Then "Delete" the "Highest" Priced Item
     And Check SubTotal and Total are correct
     Then Change the shipping country to "Portugal" and postcode as "5000"
-    And Check SubTotal and Total are correct
+    And Check SubTotal and Total are correct 
